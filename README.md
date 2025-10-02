@@ -25,7 +25,7 @@ These provide insights into profits, revenue trends, and product category perfor
 
 ### Dashboard View
 ![Dashboard Screenshot1](Screenshots/ss0.png)
-![Dashboard Screenshot1](Screenshots/Screenshot (89).png)
+![Dashboard Screenshot1](Screenshots/Screenshot(89).png)
 ---
 
 ## 🛠️ How to Use
