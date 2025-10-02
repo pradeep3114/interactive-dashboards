@@ -23,8 +23,9 @@ These provide insights into profits, revenue trends, and product category perfor
 
 ## 📸 Screenshots
 
-### Dashboard View
+### Dashboard Hoodies and T-Shirts sales in the US
 ![Dashboard Screenshot1](Screenshots/ss0.png)
+### Dashboard House Sales in King Country,USA
 ![Dashboard Screenshot2](Screenshots/Screenshot(89).png)
 ---
 
