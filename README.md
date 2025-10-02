@@ -22,7 +22,7 @@ It provides insights into profits, revenue trends, and product category performa
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard Screenshot](screenshots/ss0.png)
+![Dashboard Screenshot](Screenshots/ss0.png)
 
 ---
 
