@@ -21,6 +21,9 @@ These provide insights into profits, revenue trends, and product category perfor
   
 ---
 
+## Application used
+- Used pivot table , slicers, power queries in Excel
+
 ## 📸 Screenshots
 
 ### Dashboard Hoodies and T-Shirts sales in the US
